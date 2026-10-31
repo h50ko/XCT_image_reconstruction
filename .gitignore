@@ -5,3 +5,4 @@ data/processed/*
 !data/processed/targets/
 results/**/checkpoints/
 *.pt
+results/**/train_stdout.txt
